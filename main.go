@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Concerrency")
+	fmt.Println("Concerrency in go")
 }
